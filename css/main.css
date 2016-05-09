@@ -1,0 +1,29 @@
+
+img{max-width: 100%;}
+.bg-gray-dark{ background:#424242; }
+.bg-white{ background: #fff; }
+.text-gray-dark{ color:#424242; }
+.text-red{ color: #FE2E64; }
+.font-size-larger{ font-size: large; };
+header .list-unstyle{ list-style: none; text-align: right; font-family: OpenSans;} 
+header .list-unstyle li{ display: inline-block; padding: 4% 2% 0 2%;}
+header .list-unstyle li:hover{ color: #FE2E64; }
+.pt-4{ padding-top: 4%; }
+.pt-2{ padding-top: 2%; }
+.pd-2{padding: 2%;}
+.display-ib{ display: inline-block; }
+.display-b{ display: block; }
+header h1{ font-family: Dosis; }
+header h1:first-child{ font-size-adjust: bolder; }
+header h1:last-child{ font-weight: bolder; }
+#hero-section button{ border-radius: 28px; color: #ffffff; font-size: 20px; font-size: 12px; background: #bcc0c2; padding: 5px 10px; text-decoration: none; border: none;}
+#hero-section button:hover{ background: #606466; text-decoration: none; }
+section h1, h2, h3, h4, h5{ font-family: OpenSans; color:#424242;}
+section .list-unstyle{ list-style: none; font-family: OpenSans;} 
+section .list-unstyle li{ display: inline-block;}
+section .list-unstyle li:hover{ color: #424242; }
+#latest p{ font-family: OpenSans; color:#424242; font-size-adjust: 16px; font-weight: bolder;}
+section img{ position: relative; left: 1.25rem; right: 1.25rem; }
+#top{ bottom: 0; right:0; }
+footer{ font-family: OpenSans;}
+hr{ border-color:#ccc; }
